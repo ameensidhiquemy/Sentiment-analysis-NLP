@@ -8,6 +8,9 @@ Final Year CS project on Twitter sentiment analysis using Natural Language Proce
 Authors:
 
 [Ameen Sidhique](https://github.com/ameensidhiquemy)
+
 [Aushin Raj](https://github.com/Aushinraj)
+
 [Mohammed Fabinsha](https://github.com/mohammedfabinsha)
+
 Midhun K V
